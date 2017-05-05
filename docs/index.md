@@ -14,7 +14,7 @@ Khoá học OFFLINE, bằng tiếng Việt, nhưng mọi từ khoá sẽ giữ n
 
 ---
 
-[Đăng ký](https://goo.gl/forms/MMfY9UH5SNrt5Yy62)
+## [Đăng ký](https://goo.gl/forms/MMfY9UH5SNrt5Yy62)
 
 ---
 
