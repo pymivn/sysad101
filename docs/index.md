@@ -1,7 +1,7 @@
 # Basic Linux System Administrator
 
 * [FaceBook Page](https://www.facebook.com/familug)
-* Instructor(s): hvn@familug.org - tác giả blog http://www.familug.org/, https://github.com/hvnsweeting/, [người tổ chức SaltStack meetup ở Việt Nam](https://www.meetup.com/VietNam-SaltStack-Meetup/).
+* Instructor(s): HVN at [FAMILUG.org](http://www.familug.org/)
 * Course number: PyMiVN SysAd101
 * Level: newbie
 
@@ -121,6 +121,15 @@ Khoá học OFFLINE, bằng tiếng Việt, nhưng mọi từ khoá sẽ giữ n
 - [FAMILUG.ORG](http://www.familug.org/)
 
 ## FAQs
+
+### Giảng viên là ai?
+- Giảng viên lớp học [Python] đã dạy hơn 10 khoá học trên cả nước.
+- Linux User từ Ubuntu 8.04 (2008).
+- Contributor của các phần mềm dùng trong SysAdmin như SaltStack, Diamond, xem
+  chi tiết tại: [GitHub](https://github.com/hvnsweeting/)
+- [Người tổ chức SaltStack meetup ở Việt Nam](https://www.meetup.com/VietNam-SaltStack-Meetup/).
+- Xem [Resume](https://docs.google.com/document/d/1UOI6py9e83XGes32Vikq6_ZzOJMOqWB0u0zvkI3fab8/pub)
+
 ### Học xong còn khoá nâng cao hơn không?
 - Có, chúng tôi đang phát triển khoá học [DevOps]. Một SysAdmin cũng có thể
   nâng cao tay nghề bằng việc học lập trình [Python].
