@@ -1,0 +1,224 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Basic Linux System Administrator\n\n\n\n\nFaceBook Page\n\n\nInstructor(s): hvn@familug.org - t\u00e1c gi\u1ea3 blog http://www.familug.org/, https://github.com/hvnsweeting/, \nng\u01b0\u1eddi t\u1ed5 ch\u1ee9c SaltStack meetup \u1edf Vi\u1ec7t Nam\n.\n\n\nCourse number: PyMiVN SysAd101\n\n\nLevel: newbie\n\n\n\n\nKho\u00e1 h\u1ecdc s\u1eed d\u1ee5ng m\u1ed9t h\u1ec7 \u0111i\u1ec1u h\u00e0nh nh\u00e2n Linux.\nT\u00ecm hi\u1ec3u c\u00e1c th\u00e0nh ph\u1ea7n c\u1ee7a m\u1ed9t h\u1ec7 \u0111i\u1ec1u h\u00e0nh, c\u00e1ch c\u00e0i \u0111\u1eb7t, c\u1ea5u h\u00ecnh, qu\u1ea3n tr\u1ecb, v\u1eadn h\u00e0nh c\u00e1c d\u1ecbch v\u1ee5. C\u00e1c c\u00e2u l\u1ec7nh c\u1ea7n thi\u1ebft, c\u00f3 th\u1ec3 ch\u1ea1y tr\u00ean m\u1ecdi h\u1ec7 \u0111i\u1ec1u h\u00e0nh UNIX-like (OSX, BSD, Fedora, Kali, BackTrack, Ubuntu, Debian...).\nC\u00e0i \u0111\u1eb7t c\u00e1c d\u1ecbch v\u1ee5 thi\u1ebft y\u1ebfu \u0111\u1ed1i v\u1edbi m\u1ed9t Linux Sysadmin nh\u01b0 Web server, DB.\nC\u00e0i \u0111\u1eb7t 1 webapp vi\u1ebft b\u1eb1ng Golang v\u00e0 m\u1ed9t Django webapp vi\u1ebft b\u1eb1ng Python.\n\n\nKho\u00e1 h\u1ecdc OFFLINE, b\u1eb1ng ti\u1ebfng Vi\u1ec7t, nh\u01b0ng m\u1ecdi t\u1eeb kho\u00e1 s\u1ebd gi\u1eef nguy\u00ean ti\u1ebfng Anh.\n\n\n\n\n\n\nL\u1edbp HN d\u1ef1 ki\u1ebfn khai gi\u1ea3ng 15/05/2017 t\u1ea1i s\u1ed1 19, ng\u00f5 376, Kh\u01b0\u01a1ng \u0110\u00ecnh, H\u00e0 N\u1ed9i.\n\n\nL\u1edbp HCM d\u1ef1 ki\u1ebfn khai gi\u1ea3ng th\u00e1ng 8 2017.\n\n\nH\u1ecdc th\u1ee9 2,4 t\u1eeb 19h->21h30.\n\n\nH\u1ecdc ph\u00ed: 4.000.000 VND, \u0111\u00f3ng v\u00e0o bu\u1ed5i h\u1ecdc 2nd (b\u1ea1n \u0111\u01b0\u1ee3c h\u1ecdc th\u1eed\n  bu\u1ed5i \u0111\u1ea7u mi\u1ec5n ph\u00ed).\n\n\n\n\n\n\nSyslabus\n\n\nWeek 1\n\n\nThe OS\n\n\n\n\nInstalling OS: Ubuntu\n\n\nVersion scheme: lsb_release\n\n\nRelease cycle\n\n\nDebian distro, other distros\n\n\nOS components\n\n\nThe Linux kernel: uname\n\n\n\n\nCommand line basic\n\n\n\n\nfile/directory: cd, pwd, mkdir, ls, cp, mv, rm ...\n\n\ncat, less, tail, head\n\n\nsystem information: df, du, file, free, dmesg\n\n\nnano, vi\n\n\n\n\nInstalling package and package management\n\n\n\n\napt\n basic\n\n\ndpkg\n\n\ninstall/upgrade/dist-upgrade/remove/purge\n\n\n\n\nSSH\n\n\n\n\nssh server, ssh client\n\n\nSSH tunnel\n\n\ntmux/screen\n\n\n\n\nProcesses\n\n\n\n\nProcess, memory, filesystem\n\n\n\n\n\n\nWeek 2\n\n\nFilesystem, partitions, swap\n\n\n\n\nFHS\n\n\n/proc\n\n\n/dev\n\n\n\n\nUser, group, permission\n\n\n\n\nChmod\n\n\nUser and group\n\n\npasswd\n\n\n\n\nNetworking\n\n\n\n\nTCP/UDP\n\n\nIP\n\n\nARP\n\n\nrouting table\n\n\nnetwork interface\n\n\n\n\n\n\nWeek 3\n\n\nScripting, bash, sh, python\n\n\nCron\n\n\nInit system\n\n\nLogging\n\n\n\n\nReading syslog and service logs\n\n\n\n\n\n\nWeek 4\n\n\nDeploy Mattermost\n\n\n\n\nDatabase: postgresql\n\n\nHTTP server\n\n\nMattermost\n\n\nSSL/TLS HTTPS\n\n\n\n\nDeploy Django app\n\n\n\n\nPip, virtualenv\n\n\nApp server: gunicorn\n\n\n\n\n\n\nWeek 5\n\n\nMonitoring\n\n\n\n\nShinken/nagios\n\n\nGraphite/diamond\n\n\n\n\nSCP backup\n\n\nReadings\n\n\n\n\nDebian Handbook\n\n\nUbuntu Xenial Manpage\n\n\nFAMILUG.ORG\n\n\n\n\nFAQs\n\n\nH\u1ecdc xong c\u00f2n kho\u00e1 n\u00e2ng cao h\u01a1n kh\u00f4ng?\n\n\n\n\nC\u00f3, ch\u00fang t\u00f4i \u0111ang ph\u00e1t tri\u1ec3n kho\u00e1 h\u1ecdc \nDevOps\n. M\u1ed9t SysAdmin c\u0169ng c\u00f3 th\u1ec3\n  n\u00e2ng cao tay ngh\u1ec1 b\u1eb1ng vi\u1ec7c h\u1ecdc l\u1eadp tr\u00ecnh \nPython\n.\n\n\n\n\nT\u00f4i c\u00f3 c\u1ea7n bi\u1ebft g\u00ec tr\u01b0\u1edbc khi h\u1ecdc kh\u00f4ng?\n\n\n\n\nC\u00e0i h\u1ec7 \u0111i\u1ec1u h\u00e0nh Ubuntu 16.04 l\u00ean laptop c\u1ee7a b\u1ea1n.\n\n\nT\u00e2p b\u1eadt t\u1eaft m\u00e1y.\n\n\nLuy\u1ec7n g\u00f5 c\u00e0ng nhanh c\u00e0ng t\u1ed1t.\n\n\nBi\u1ebft tra t\u1eeb \u0111i\u1ec3n Anh-Vi\u1ec7t hay d\u00f9ng Google Translate.",
+            "title": "Home"
+        },
+        {
+            "location": "/#basic-linux-system-administrator",
+            "text": "FaceBook Page  Instructor(s): hvn@familug.org - t\u00e1c gi\u1ea3 blog http://www.familug.org/, https://github.com/hvnsweeting/,  ng\u01b0\u1eddi t\u1ed5 ch\u1ee9c SaltStack meetup \u1edf Vi\u1ec7t Nam .  Course number: PyMiVN SysAd101  Level: newbie   Kho\u00e1 h\u1ecdc s\u1eed d\u1ee5ng m\u1ed9t h\u1ec7 \u0111i\u1ec1u h\u00e0nh nh\u00e2n Linux.\nT\u00ecm hi\u1ec3u c\u00e1c th\u00e0nh ph\u1ea7n c\u1ee7a m\u1ed9t h\u1ec7 \u0111i\u1ec1u h\u00e0nh, c\u00e1ch c\u00e0i \u0111\u1eb7t, c\u1ea5u h\u00ecnh, qu\u1ea3n tr\u1ecb, v\u1eadn h\u00e0nh c\u00e1c d\u1ecbch v\u1ee5. C\u00e1c c\u00e2u l\u1ec7nh c\u1ea7n thi\u1ebft, c\u00f3 th\u1ec3 ch\u1ea1y tr\u00ean m\u1ecdi h\u1ec7 \u0111i\u1ec1u h\u00e0nh UNIX-like (OSX, BSD, Fedora, Kali, BackTrack, Ubuntu, Debian...).\nC\u00e0i \u0111\u1eb7t c\u00e1c d\u1ecbch v\u1ee5 thi\u1ebft y\u1ebfu \u0111\u1ed1i v\u1edbi m\u1ed9t Linux Sysadmin nh\u01b0 Web server, DB.\nC\u00e0i \u0111\u1eb7t 1 webapp vi\u1ebft b\u1eb1ng Golang v\u00e0 m\u1ed9t Django webapp vi\u1ebft b\u1eb1ng Python.  Kho\u00e1 h\u1ecdc OFFLINE, b\u1eb1ng ti\u1ebfng Vi\u1ec7t, nh\u01b0ng m\u1ecdi t\u1eeb kho\u00e1 s\u1ebd gi\u1eef nguy\u00ean ti\u1ebfng Anh.    L\u1edbp HN d\u1ef1 ki\u1ebfn khai gi\u1ea3ng 15/05/2017 t\u1ea1i s\u1ed1 19, ng\u00f5 376, Kh\u01b0\u01a1ng \u0110\u00ecnh, H\u00e0 N\u1ed9i.  L\u1edbp HCM d\u1ef1 ki\u1ebfn khai gi\u1ea3ng th\u00e1ng 8 2017.  H\u1ecdc th\u1ee9 2,4 t\u1eeb 19h->21h30.  H\u1ecdc ph\u00ed: 4.000.000 VND, \u0111\u00f3ng v\u00e0o bu\u1ed5i h\u1ecdc 2nd (b\u1ea1n \u0111\u01b0\u1ee3c h\u1ecdc th\u1eed\n  bu\u1ed5i \u0111\u1ea7u mi\u1ec5n ph\u00ed).",
+            "title": "Basic Linux System Administrator"
+        },
+        {
+            "location": "/#syslabus",
+            "text": "",
+            "title": "Syslabus"
+        },
+        {
+            "location": "/#week-1",
+            "text": "",
+            "title": "Week 1"
+        },
+        {
+            "location": "/#the-os",
+            "text": "Installing OS: Ubuntu  Version scheme: lsb_release  Release cycle  Debian distro, other distros  OS components  The Linux kernel: uname",
+            "title": "The OS"
+        },
+        {
+            "location": "/#command-line-basic",
+            "text": "file/directory: cd, pwd, mkdir, ls, cp, mv, rm ...  cat, less, tail, head  system information: df, du, file, free, dmesg  nano, vi",
+            "title": "Command line basic"
+        },
+        {
+            "location": "/#installing-package-and-package-management",
+            "text": "apt  basic  dpkg  install/upgrade/dist-upgrade/remove/purge",
+            "title": "Installing package and package management"
+        },
+        {
+            "location": "/#ssh",
+            "text": "ssh server, ssh client  SSH tunnel  tmux/screen",
+            "title": "SSH"
+        },
+        {
+            "location": "/#processes",
+            "text": "Process, memory, filesystem",
+            "title": "Processes"
+        },
+        {
+            "location": "/#week-2",
+            "text": "",
+            "title": "Week 2"
+        },
+        {
+            "location": "/#filesystem-partitions-swap",
+            "text": "FHS  /proc  /dev",
+            "title": "Filesystem, partitions, swap"
+        },
+        {
+            "location": "/#user-group-permission",
+            "text": "Chmod  User and group  passwd",
+            "title": "User, group, permission"
+        },
+        {
+            "location": "/#networking",
+            "text": "TCP/UDP  IP  ARP  routing table  network interface",
+            "title": "Networking"
+        },
+        {
+            "location": "/#week-3",
+            "text": "",
+            "title": "Week 3"
+        },
+        {
+            "location": "/#scripting-bash-sh-python",
+            "text": "",
+            "title": "Scripting, bash, sh, python"
+        },
+        {
+            "location": "/#cron",
+            "text": "",
+            "title": "Cron"
+        },
+        {
+            "location": "/#init-system",
+            "text": "",
+            "title": "Init system"
+        },
+        {
+            "location": "/#logging",
+            "text": "Reading syslog and service logs",
+            "title": "Logging"
+        },
+        {
+            "location": "/#week-4",
+            "text": "",
+            "title": "Week 4"
+        },
+        {
+            "location": "/#deploy-mattermost",
+            "text": "Database: postgresql  HTTP server  Mattermost  SSL/TLS HTTPS",
+            "title": "Deploy Mattermost"
+        },
+        {
+            "location": "/#deploy-django-app",
+            "text": "Pip, virtualenv  App server: gunicorn",
+            "title": "Deploy Django app"
+        },
+        {
+            "location": "/#week-5",
+            "text": "",
+            "title": "Week 5"
+        },
+        {
+            "location": "/#monitoring",
+            "text": "Shinken/nagios  Graphite/diamond",
+            "title": "Monitoring"
+        },
+        {
+            "location": "/#scp-backup",
+            "text": "",
+            "title": "SCP backup"
+        },
+        {
+            "location": "/#readings",
+            "text": "Debian Handbook  Ubuntu Xenial Manpage  FAMILUG.ORG",
+            "title": "Readings"
+        },
+        {
+            "location": "/#faqs",
+            "text": "",
+            "title": "FAQs"
+        },
+        {
+            "location": "/#hoc-xong-con-khoa-nang-cao-hon-khong",
+            "text": "C\u00f3, ch\u00fang t\u00f4i \u0111ang ph\u00e1t tri\u1ec3n kho\u00e1 h\u1ecdc  DevOps . M\u1ed9t SysAdmin c\u0169ng c\u00f3 th\u1ec3\n  n\u00e2ng cao tay ngh\u1ec1 b\u1eb1ng vi\u1ec7c h\u1ecdc l\u1eadp tr\u00ecnh  Python .",
+            "title": "H\u1ecdc xong c\u00f2n kho\u00e1 n\u00e2ng cao h\u01a1n kh\u00f4ng?"
+        },
+        {
+            "location": "/#toi-co-can-biet-gi-truoc-khi-hoc-khong",
+            "text": "C\u00e0i h\u1ec7 \u0111i\u1ec1u h\u00e0nh Ubuntu 16.04 l\u00ean laptop c\u1ee7a b\u1ea1n.  T\u00e2p b\u1eadt t\u1eaft m\u00e1y.  Luy\u1ec7n g\u00f5 c\u00e0ng nhanh c\u00e0ng t\u1ed1t.  Bi\u1ebft tra t\u1eeb \u0111i\u1ec3n Anh-Vi\u1ec7t hay d\u00f9ng Google Translate.",
+            "title": "T\u00f4i c\u00f3 c\u1ea7n bi\u1ebft g\u00ec tr\u01b0\u1edbc khi h\u1ecdc kh\u00f4ng?"
+        },
+        {
+            "location": "/devops/",
+            "text": "DevOps\n\n\nLogging\n\n\n\n\nGraylog2, ELK\n\n\n\n\nMetric\n\n\n\n\nGraphite/Influxdb\n\n\n\n\nALert\n\n\n\n\nShinken/Nagios/...\n\n\n\n\nCI\n\n\n\n\nJenkins\n\n\nConcourse?\n\n\n\n\nConfiguration management\n\n\n\n\nSaltStack\n\n\n\n\nDNS server, mail server\n\n\nDocker\n\n\nGitLab\n\n\nLDAP\n\n\nVPN\n\n\nRSync\n\n\nProxy: varnish, nginx, haproxy\n\n\nSentry\n\n\nOdoo, youtrack",
+            "title": "Devops"
+        },
+        {
+            "location": "/devops/#devops",
+            "text": "",
+            "title": "DevOps"
+        },
+        {
+            "location": "/devops/#logging",
+            "text": "Graylog2, ELK",
+            "title": "Logging"
+        },
+        {
+            "location": "/devops/#metric",
+            "text": "Graphite/Influxdb",
+            "title": "Metric"
+        },
+        {
+            "location": "/devops/#alert",
+            "text": "Shinken/Nagios/...",
+            "title": "ALert"
+        },
+        {
+            "location": "/devops/#ci",
+            "text": "Jenkins  Concourse?",
+            "title": "CI"
+        },
+        {
+            "location": "/devops/#configuration-management",
+            "text": "SaltStack",
+            "title": "Configuration management"
+        },
+        {
+            "location": "/devops/#dns-server-mail-server",
+            "text": "",
+            "title": "DNS server, mail server"
+        },
+        {
+            "location": "/devops/#docker",
+            "text": "",
+            "title": "Docker"
+        },
+        {
+            "location": "/devops/#gitlab",
+            "text": "",
+            "title": "GitLab"
+        },
+        {
+            "location": "/devops/#ldap",
+            "text": "",
+            "title": "LDAP"
+        },
+        {
+            "location": "/devops/#vpn",
+            "text": "",
+            "title": "VPN"
+        },
+        {
+            "location": "/devops/#rsync",
+            "text": "",
+            "title": "RSync"
+        },
+        {
+            "location": "/devops/#proxy-varnish-nginx-haproxy",
+            "text": "",
+            "title": "Proxy: varnish, nginx, haproxy"
+        },
+        {
+            "location": "/devops/#sentry",
+            "text": "",
+            "title": "Sentry"
+        },
+        {
+            "location": "/devops/#odoo-youtrack",
+            "text": "",
+            "title": "Odoo, youtrack"
+        }
+    ]
+}
