@@ -31,7 +31,10 @@ Khoá học OFFLINE, bằng tiếng Việt, nhưng mọi từ khoá sẽ giữ n
 ### Week 1
 
 #### The OS
-- Installing OS: Ubuntu
+
+![Ubuntu](ubuntu.png)
+
+- Installing OS: [Ubuntu **16.04** ](https://www.ubuntu.com/)
 - Version scheme: lsb_release
 - Release cycle
 - Debian distro, other distros
