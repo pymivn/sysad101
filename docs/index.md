@@ -135,10 +135,12 @@ Khoá học OFFLINE, bằng tiếng Việt, nhưng mọi từ khoá sẽ giữ n
   nâng cao tay nghề bằng việc học lập trình [Python].
 
 ### Tôi có cần biết gì trước khi học không?
-- Cài hệ điều hành Ubuntu 16.04 lên laptop của bạn.
+- Cài hệ điều hành Ubuntu 16.04 lên laptop của bạn hoặc [máy ảo](
+  https://medium.com/@doanhtu/h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-ubuntu-server-tr%C3%AAn-vmware-player-726f1f08ad35).
+  Khuyến khích cài và chuyển sang dùng hẳn máy thật Ubuntu 16.04.
 - Tâp bật tắt máy.
 - Luyện gõ càng nhanh càng tốt.
-- Biết tra từ điển Anh-Việt hay dùng Google Translate.
+- Biết tra từ điển [Anh-Việt](https://vdict.com/) hay dùng [Google Translate](https://translate.google.com/).
 
 [DevOps]: devops/
 [Python]: https://pymi.vn
