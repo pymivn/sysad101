@@ -23,6 +23,9 @@ Khoá học OFFLINE, bằng tiếng Việt, nhưng mọi từ khoá sẽ giữ n
 * Học thứ 2,4 từ 19h->21h30.
 * Học phí: 4.000.000 VND, đóng vào buổi học 2nd (bạn được học thử
   buổi đầu miễn phí).
+* Giảm ngay 5% học phí (sau khi đã giảm giá - nếu có) khi học viên chia sẻ
+  [bài viết này](https://www.facebook.com/familug/photos/a.362246860495308.89778.356337084419619/1337935746259743/?type=3)
+  lên FaceBook timeline ở chế độ public với nội dung "Học Linux SysAdmin tại #FAMILUG"
 
 ---
 
