@@ -142,13 +142,18 @@
         },
         {
             "location": "/devops/",
-            "text": "DevOps\n\n\nLogging\n\n\n\n\nGraylog2, ELK\n\n\n\n\nMetric\n\n\n\n\nGraphite/Influxdb\n\n\n\n\nALert\n\n\n\n\nShinken/Nagios/...\n\n\n\n\nCI\n\n\n\n\nJenkins\n\n\nConcourse?\n\n\n\n\nConfiguration management\n\n\n\n\nSaltStack\n\n\n\n\nDNS server, mail server\n\n\nDocker\n\n\nGitLab\n\n\nLDAP\n\n\nVPN\n\n\nRSync\n\n\nProxy: varnish, nginx, haproxy\n\n\nSentry\n\n\nOdoo, youtrack",
+            "text": "DevOps\n\n\n\u0110ang s\u1ea3n xu\u1ea5t...\n\n\nLogging\n\n\n\n\nGraylog2, ELK\n\n\n\n\nMetric\n\n\n\n\nGraphite/Influxdb\n\n\n\n\nALert\n\n\n\n\nShinken/Nagios/...\n\n\n\n\nCI\n\n\n\n\nJenkins\n\n\nConcourse?\n\n\n\n\nConfiguration management\n\n\n\n\nSaltStack\n\n\n\n\nDNS server, mail server\n\n\nDocker\n\n\nGitLab\n\n\nLDAP\n\n\nVPN\n\n\nRSync\n\n\nProxy: varnish, nginx, haproxy\n\n\nSentry\n\n\nOdoo, youtrack",
             "title": "Devops"
         },
         {
             "location": "/devops/#devops",
             "text": "",
             "title": "DevOps"
+        },
+        {
+            "location": "/devops/#ang-san-xuat",
+            "text": "",
+            "title": "\u0110ang s\u1ea3n xu\u1ea5t..."
         },
         {
             "location": "/devops/#logging",
