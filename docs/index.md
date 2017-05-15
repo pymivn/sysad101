@@ -148,5 +148,8 @@ Khoá học OFFLINE, bằng tiếng Việt, nhưng mọi từ khoá sẽ giữ n
 - Luyện gõ càng nhanh càng tốt.
 - Biết tra từ điển [Anh-Việt](https://vdict.com/) hay dùng [Google Translate](https://translate.google.com/).
 
+### Tài trợ
+- Tài trợ cloud: [![https://greencloudvps.com/](greencloud.png)](https://greencloudvps.com/)
+
 [DevOps]: devops/
 [Python]: https://pymi.vn
