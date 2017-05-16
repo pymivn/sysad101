@@ -122,6 +122,8 @@ Bấm vào chữ đăng ký ở trên rồi điền thông tin.
 - Graphite/diamond
 
 #### SCP backup
+- SCP
+- Rsync
 
 ## Readings
 - [Debian Handbook](https://debian-handbook.info)
