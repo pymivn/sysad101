@@ -52,24 +52,27 @@ Bấm vào chữ đăng ký ở trên rồi điền thông tin.
 - system information: df, du, file, free, dmesg
 - nano, vi
 
+#### Processes
+- Process, memory,
+
+---
+
+### Week 2
+
 #### Installing package and package management
 - `apt` basic
 - `dpkg`
 - install/upgrade/dist-upgrade/remove/purge
+
+#### Basic scripting - bash
+Write and run simple script
 
 #### SSH
 - ssh server, ssh client
 - SSH tunnel
 - tmux/screen
 
-#### Processes
-- Process, memory, filesystem
-
----
-
-### Week 2
-
-#### Filesystem, partitions, swap
+### Filesystem, partitions, swap
 - FHS
 - /proc
 - /dev
