@@ -82,6 +82,12 @@ Write and run simple script
 - User and group
 - passwd
 
+#### More commands
+- cut
+- tr
+- uniq
+- sort
+
 #### Networking
 - TCP/UDP
 - IP
