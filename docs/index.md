@@ -20,7 +20,10 @@ Bấm vào chữ đăng ký ở trên rồi điền thông tin.
 
 ---
 
-* Lớp HN dự kiến khai giảng 15/05/2017 tại số 19, ngõ 376, Khương Đình, Hà Nội.
+* Lớp học chỉ mở khi đã đủ > 10 học viên. Hãy đăng ký! chúng tôi sẽ liên lạc lại
+khi đủ học viên.
+* Nhập email vào http://invite.pymi.vn/ để nhận thư mời tham gia forum của lớp, channel #sysad101
+* HN - tại số 19, ngõ 376, Khương Đình, Hà Nội.
 * Lớp HCM dự kiến khai giảng tháng 8 2017.
 * Học thứ 2,4 từ 19h->21h30.
 * Học phí: 4.000.000 VND, đóng vào buổi học 2nd (bạn được học thử
