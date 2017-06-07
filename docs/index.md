@@ -67,6 +67,12 @@ Bấm vào chữ đăng ký ở trên rồi điền thông tin.
 #### Basic scripting - bash
 Write and run simple script
 
+- `-ex`
+- run it
+- header shebang
+- `if, [`
+- VARIABLE
+
 #### SSH
 - ssh server, ssh client
 - SSH tunnel
@@ -99,23 +105,44 @@ Write and run simple script
 
 ### Week 3
 
-#### Scripting, bash, sh, python
-
 #### Cron
+- crontab
+- `run-parts`
+- daily, hourly, weekly
+
+#### Installing popular services
+- `apt-cache`
+- HTTP: NGINX
+- DNS: bind
+- SMTP server: postfix
+- DB: postgresql
+- Cron
+- openssh-server
+- Docker
+- PPA
+- NoSQL: memcached, redis, elasticsearch
+- Influxdb server & Grafana
 
 #### Init system
 
 #### Logging
 - Reading syslog and service logs
 
+#### sudo
+
+#### Scripting, bash, sh, python
+
+- Write script to do common tasks and process log
+
 ---
 
 ### Week 4
 
 #### Deploy Mattermost
+- Mattermost
 - Database: postgresql
 - HTTP server
-- Mattermost
+
 - SSL/TLS HTTPS
 
 #### Deploy Django app
