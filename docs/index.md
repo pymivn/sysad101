@@ -18,6 +18,8 @@ Khoá học OFFLINE, bằng tiếng Việt, nhưng mọi từ khoá sẽ giữ n
 
 Bấm vào chữ đăng ký ở trên rồi điền thông tin.
 
+**Xem danh sách đã đăng ký [tại đây](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9Uw7kMGsBE9Sjn2UJ28NSQGAdV_Mc00WA-TPBLMh9Le9f8d1-VzYQ6gMIP8f29n5ZWz48mIwyDZ0U/pubhtml?gid=1701933188&single=true)**
+
 ---
 
 * Lớp học chỉ mở khi đã đủ > 10 học viên. Hãy đăng ký! chúng tôi sẽ liên lạc lại
