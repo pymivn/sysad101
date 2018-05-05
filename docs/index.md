@@ -1,5 +1,9 @@
 # Basic Linux System Administrator
 
+## Lớp học đã ngừng hoạt động.
+
+Học Python? đăng ký tại [pymi.vn](https://pymi.vn)
+
 * [FaceBook Page](https://www.facebook.com/familug)
 * Instructor(s): HVN at [FAMILUG.org](http://www.familug.org/)
 * Course number: PyMiVN SysAd101
